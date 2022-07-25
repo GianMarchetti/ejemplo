@@ -1,0 +1,17 @@
+.foot {
+    border: green 1px solid;
+    background-color: pink;
+    color: green;
+    /* height: 100px; */
+    text-align: center;
+    margin-top: 6%;
+}
+
+.insta {
+    text-align: center;
+    font-family: cursive;
+    font-style: italic;
+    text-decoration: none;
+    color: black;
+    background-color: bisque;
+}

@@ -1,0 +1,29 @@
+.imgAses {
+    height: 300px;
+    width: 200px;
+    border: solid 1px white;
+    float: left;
+}
+
+.StyleSpan {
+    font-size: 25px;
+    margin-left: 1%;
+}
+
+.styleTitle {
+    color: Pink;
+    margin-bottom: 2%;
+}
+
+.styleTitle2 {
+    color: green;
+}
+
+.styleBox {
+    background-color: Pink;
+    color: White;
+    border: solid 1px green;
+    height: 400px;
+    margin: 1%;
+    padding-left: 1%;
+}

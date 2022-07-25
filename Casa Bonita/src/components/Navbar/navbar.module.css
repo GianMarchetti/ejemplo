@@ -1,0 +1,12 @@
+.nav {
+    border: green 1px solid;
+    background-color: pink;
+    text-align: center;
+    color: green;
+    margin-bottom: 4%;
+}
+
+.nv2 {
+    margin-top: 8px;
+    /* float: right; */
+}

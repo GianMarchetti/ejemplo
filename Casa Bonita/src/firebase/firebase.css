@@ -1,0 +1,44 @@
+#first-name {
+    border: green solid;
+    margin: 1%;
+}
+
+#email {
+    border: green solid;
+    margin: 1%;
+}
+
+#phone {
+    border: green solid;
+    margin: 1%;
+}
+
+.form-control {
+    border: green solid;
+    margin: 1%;
+}
+
+.btn-contacto {
+    border: green solid;
+    margin: 1%;
+}
+
+.form-firebase {
+    border: green solid;
+    border-radius: 1rem;
+    width: 23rem;
+    height: 18rem;
+    margin-top: 6rem;
+    margin-left: 36rem;
+    padding-left: 1rem;
+    margin-bottom: 1rem;
+    padding-top: 1rem;
+}
+
+.firebase-button {
+    background-color: pink;
+    color: white;
+    border: pink solid;
+    border-radius: 12%;
+    margin-top: 1rem;
+}
